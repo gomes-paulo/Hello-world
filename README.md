@@ -1,4 +1,4 @@
-# Hello-world
+
 Hello, my name is Paulo I have done my degree in Computer Science in 2012. I have a Post Degree in Public Health Management. I am Python PCEP-30-01 Certified. 
 
 I have worked in many sectors of IT. When I finished my degree I started work as an IT Instructor where I used to teach programming logic, windows tools especially office 365, database (MySQL, PostgreSQL, and SQLServer).
